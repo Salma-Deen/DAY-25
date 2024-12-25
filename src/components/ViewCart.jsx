@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 
 import React, { useState, useEffect, useContext } from "react";
-import "./viewCart.css";
+import "./ViewCart.css";
 
 import { cartContext } from "../App";
 
